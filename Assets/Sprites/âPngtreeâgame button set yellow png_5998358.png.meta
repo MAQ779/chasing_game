@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 8c603b01220024b249d6ae59efdada5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1494944595114642456
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_0"
+  - first:
+      213: -1622307973106626432
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_1"
+  - first:
+      213: -3839264794936041082
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_2"
+  - first:
+      213: -1554474882452079743
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_3"
+  - first:
+      213: 6481466436046814364
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_4"
+  - first:
+      213: 2258816833619172317
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_5"
+  - first:
+      213: 4775384482449868962
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_6"
+  - first:
+      213: 7298755222511588755
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_7"
+  - first:
+      213: 2016851363054119991
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_8"
+  - first:
+      213: 2189235292092459563
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_9"
+  - first:
+      213: 516540276943932158
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_10"
+  - first:
+      213: 5887180773127923231
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_11"
+  - first:
+      213: 6466321519714308394
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_12"
+  - first:
+      213: -1803005689592992576
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_13"
+  - first:
+      213: 1452163995993906250
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_14"
+  - first:
+      213: 1766978992111490882
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_15"
+  - first:
+      213: 2259974614829159860
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_16"
+  - first:
+      213: 1399479294772969896
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_17"
+  - first:
+      213: -722570498437737997
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_18"
+  - first:
+      213: 8687339065824484100
+    second: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_19"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_0"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 958
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cc2be403c1fb410800000000000000
+      internalID: 1494944595114642456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_1"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 958
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08012ba6e776c79e0800000000000000
+      internalID: -1622307973106626432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_2"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 958
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ac23a20138bac0800000000000000
+      internalID: -3839264794936041082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_3"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 958
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b3d2394556d6ae0800000000000000
+      internalID: -1554474882452079743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_4"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 730
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cff20226bc2f950800000000000000
+      internalID: 6481466436046814364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_5"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 730
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb1b8441fde85f10800000000000000
+      internalID: 2258816833619172317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_6"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 730
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8465eb2e2954240800000000000000
+      internalID: 4775384482449868962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_7"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 730
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395945454336a4560800000000000000
+      internalID: 7298755222511588755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_8"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 502
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c6a9301ab4dfb10800000000000000
+      internalID: 2016851363054119991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_9"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 502
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a6bea26e9b16e10800000000000000
+      internalID: 2189235292092459563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_10"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 502
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efacc6725ae1b2700800000000000000
+      internalID: 516540276943932158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_11"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 502
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16acc6b8b773b150800000000000000
+      internalID: 5887180773127923231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_12"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 274
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211902892dfcb950800000000000000
+      internalID: 6466321519714308394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_13"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 274
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc2dc7c0ef6af6e0800000000000000
+      internalID: -1803005689592992576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_14"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 274
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c14d0e57f172410800000000000000
+      internalID: 1452163995993906250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_15"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 274
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247126e0802958810800000000000000
+      internalID: 1766978992111490882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_16"
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 46
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5da4630fa0d5f10800000000000000
+      internalID: 2259974614829159860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_17"
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 46
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1057bf003fb6310800000000000000
+      internalID: 1399479294772969896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_18"
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 46
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11173c5f9e8f5f0800000000000000
+      internalID: -722570498437737997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "a\u0302\x80\x94Pngtreea\u0302\x80\x94game button set yellow png_5998358_19"
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 46
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b97d55ad0af8870800000000000000
+      internalID: 8687339065824484100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
