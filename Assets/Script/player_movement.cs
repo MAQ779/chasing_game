@@ -130,7 +130,7 @@ public class player_movement : MonoBehaviour
     void PlayerJump()
     {
         //Input.GetButtonDown("Jump") <-- this method sometimes is not working
-        if (Input.GetKeyDown("space") && touchGround )
+        if (Input.GetButton("Jump") && touchGround)
         {
             touchGround = false;
             playerRigid.AddForce(new Vector2(0f, forceJump), ForceMode2D.Impulse);
